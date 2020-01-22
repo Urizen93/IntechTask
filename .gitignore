@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/IntechTask/bin/Debug/netcoreapp3.1
+/IntechTask/obj
+/IntechTask.DesktopClient/bin/Debug/netcoreapp3.1
+/IntechTask.DesktopClient/obj
